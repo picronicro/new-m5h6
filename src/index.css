@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  position: fixed;
+  width: 100vw;
+  padding: 12px;
+  top: 0;
+  background: #74c265;
+}
+
+.navbar h1 {
+  margin: 0 0 10px;
+}
+
+.cart {
+  display: flex;
+  gap: 10px;
+}
+
+p {
+  margin: 3px;
+}
+
+.container {
+  margin-top: 100px;
+  width: 100vw;
+}
+
+.good {
+  margin: 0 auto;
+  width: 400px;
+  padding: 20px;
+  display: flex;
+  gap: 10px;
+  justify-content: space-between;
+}
